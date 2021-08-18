@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,oBAAqB,YAAa","file":"main.98741eb3.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n::-webkit-scrollbar {display:none;}"]}
